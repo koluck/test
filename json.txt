@@ -1,6 +1,0 @@
-{
-	"typeId": 1,
-    "typeName": "面部",
-	"typeIcon": "图标",
-    "typePublicity": "测试数据"
-}
